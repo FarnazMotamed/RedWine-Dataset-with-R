@@ -3,7 +3,7 @@
 In this project project I used R and apply exploratory data analysis(EDA) techniques to explore relationships in one variable to multiple variables and to explore a selected RedWineQuality dataset for distributions, outliers, and anomalies.
 
 EDA(exploratory data analysis) for WineQualityReds dataset using R 
-the link to the html file is <https://rawgit.com/FarnazMotamed/RedWine-Dataset-with-R/master/winequalityreds.html>
+the link to the 'html' file is <https://rawgit.com/FarnazMotamed/RedWine-Dataset-with-R/master/winequalityreds.html>
 
 
 My favorite quote:
